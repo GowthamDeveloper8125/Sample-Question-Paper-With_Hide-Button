@@ -1,0 +1,16 @@
+/* Write your code here. */
+.QuestionContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.ListItemMainContainer {
+  border: 1px solid #d7dae6;
+  margin: 2px;
+  padding: 5px;
+  border-radius: 10px;
+}
+.Button {
+  background-color: transparent;
+  border: 0pc;
+}
